@@ -4,7 +4,7 @@ This web application manages the current web applications as well as well as upc
 
 # Description
 
-This web application was developed to enable users to see the list of current web application products in GitHub. Users can also edit the exisiting projects, add a new project and search projects by their either scrum master name or developer's name.
+This web application was developed to enable users to see the list of current web application products in GitHub managed by The BC Government Ministry of Citizens' Services Information Management Branch. Users can also edit the exisiting projects, add a new project and search projects by their either scrum master name or developer's name.
 
 # Getting Started
 
